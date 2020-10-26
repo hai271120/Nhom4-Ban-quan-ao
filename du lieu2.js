@@ -19,7 +19,7 @@ function displaylistphone(phones) {
                 <td style="text-align: center">Ảnh</td>
                 <td style="text-align: center">Giá tiền</td>
                 <td style="text-align: center">Số lượng</td>
-                <td style="text-align: center">Thành tiền</td>`
+                <td style="text-align: center">Thành tiền</td> `
 
     // nội dung bảng
     let listphones = document.getElementById('list-phone')

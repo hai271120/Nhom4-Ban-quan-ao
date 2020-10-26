@@ -1,0 +1,87 @@
+.option{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    font-family:'Roboto', sans-serif;
+}
+.itemtrangchu img{
+    width: 200px;
+    margin-right: 200px;
+
+}
+.itemtrangchu img:hover{
+    transform: scale(1.1);
+}
+.itemtrangchu{
+    color: white;
+    margin-right: 50px;
+}
+.itemtrangchu :hover{
+    color: #19b5ac;
+}
+.itemnam{
+    margin-right: 100px;
+    color: white;
+}
+.itemnam :hover{
+    color: #19b5ac;
+}
+.itemnữ{
+    margin-right: 100px;
+    color: white;
+}
+.itemnữ:hover{
+    color: #19b5ac;
+}
+.timkiem{
+    color: white;
+    margin-right: 10px;
+}
+.option{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    font-family:'Roboto', sans-serif;
+}
+.itemtrangchu img{
+    width: 200px;
+    margin-right: 200px;
+
+}
+.itemtrangchu img:hover{
+    transform: scale(1.1);
+}
+.itemtrangchu{
+    color: white;
+    margin-right: 50px;
+}
+.itemtrangchu :hover{
+    color: #19b5ac;
+}
+.itemnam{
+    margin-right: 100px;
+    color: white;
+}
+.itemnam :hover{
+    color: #19b5ac;
+}
+.itemnữ{
+    margin-right: 100px;
+    color: white;
+}
+.itemnữ:hover{
+    color: #19b5ac;
+}
+.timkiem{
+    color: white;
+    margin-right: 10px;
+}
+#list-phone img{
+    width: 30%;
+    height: 30%;
+   
+}

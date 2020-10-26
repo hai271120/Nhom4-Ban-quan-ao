@@ -58,8 +58,8 @@ function displaylistphone(phones) {
     for (let i = 0; i < phones.length; i++) {
         const phoneName = phones[i];
         listphones.innerHTML +=
-            `<div>
-            <div onclick="viewDetail('${phoneName.name}')"><img class="" src="${phoneName['img'][0]}"></div>
+            `<div class="item">
+            <div onclick="viewDetail('${phoneName.name}')"><img src="${phoneName['img'][0]}"></div>
             <div onclick="viewDetail('${phoneName.name}')"><h2>${phoneName.name}</h2></div>
             <div><h4>${phoneName.price}đ</h4></div>
             </div>`

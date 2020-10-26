@@ -1,0 +1,48 @@
+.option{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    font-family:'Roboto', sans-serif;
+}
+.itemtrangchu img{
+    width: 200px;
+    margin-right: 200px;
+
+}
+.itemtrangchu img:hover{
+    transform: scale(1.1);
+}
+.itemtrangchu{
+    color: white;
+    margin-right: 50px;
+}
+.itemtrangchu :hover{
+    color: #19b5ac;
+}
+.itemnam{
+    margin-right: 100px;
+    color: white;
+}
+.itemnam :hover{
+    color: #19b5ac;
+}
+.itemnữ{
+    margin-right: 100px;
+    color: white;
+}
+.itemnữ:hover{
+    color: #19b5ac;
+}
+.timkiem{
+    color: white;
+    margin-right: 10px;
+}
+#product-img img{
+    width: 70%;
+}
+#product-img{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
